@@ -1,4 +1,4 @@
-# SEI (Software Engineering Issues)
+# SMDA (Software Metrics Data Analysis)
 
 This repository aims at providing some csv datatasets that contain measurements of software metrics to be used for addressing some software engineering issues such as quality prediction. 
 
